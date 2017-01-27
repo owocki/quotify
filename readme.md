@@ -57,3 +57,8 @@ print(write_image(text, output_filename, background_img=select_background_image(
 
 
 ```
+
+
+<!-- Google Analytics -->
+<img src='https://ga-beacon.appspot.com/UA-1014419-15/owocki/quotify' style='width:1px; height:1px;' >
+
