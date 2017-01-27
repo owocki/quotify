@@ -1,6 +1,6 @@
 # What
 
-Quotify: A python library for creating inspirational images
+Quotify: A python library for creating inspirational quote images
 
 Creates inspiring quotes with beautiful backgrounds, like these:
 
