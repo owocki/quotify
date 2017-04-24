@@ -14,6 +14,8 @@ Creates inspiring quotes with beautiful backgrounds, like these:
 
 <img src="https://pbs.twimg.com/media/C3M8tTQWYAEW6ZR.jpg:large" />
 
+Fonts/Images used above (not owned or liscense by this project in any way, provided for conveneience) => https://github.com/owocki/quotify/issues/1
+
 # Why
 
 To tweet out amazing quotes from <a href="https://twitter.com/startupctoio">@StartupCTOio</a>
